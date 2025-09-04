@@ -13,7 +13,7 @@ As someone with a physical disability, I know how important curb ramps can be fo
 ### Data Science Book
 In *ggplot2: Elegant Graphics for Data Analysis (3e)* (Wickham, Navarro, Pederson, in-progress book), an in-depth review of the R package, ggplot2, takes place. ggplot2 is used to create graphics. Different types of plots, charts, and maps can be created using ggplot2. All of these visuals are completely customizable. This book grabbed my attention, because I enjoy making data visuals and I have used ggplot2 in the past. An old professor I had would mention one of the authors of the book, Hadley Wickham, often and how he is someone who has made many contributions to R. When looking through the book, I learned more about ggplot2's map making capabilities. I hope to be able to try these soon. 
 
-[*ggplot2: Elegant Graphics for Data Analysis (3e)*][https://ggplot2-book.org]
+[*ggplot2: Elegant Graphics for Data Analysis (3e)*](https://ggplot2-book.org)
 
 
 
