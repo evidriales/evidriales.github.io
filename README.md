@@ -1,8 +1,5 @@
 # evidriales.github.io
 
-Hello, I am Edgar, and this is my **first** website :)
-
-
 ### Dataset
 This dataset about curb ramps is provided by San Francisco Government Open Data. This data includes locations of curb ramps around the San Francisco Bay Area, including coordinates and position. This dataset also contains information on the slopes of curb cuts and scores about the conditions of each ramp. 
 
